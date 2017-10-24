@@ -21,6 +21,9 @@ Functions include:
   checks if set is empty, 
   printHistogram(displays the Histogram per set)
   
+  Display format #1: [5:2] [3:5] [2:6] [2:8]
+  Display format #2: 2 2 2 2 2 5 5 5 6 6 8 8
+  
   
 Activity was made 7/25/2016 23:57:12
 Author: Fritz Villacorta
