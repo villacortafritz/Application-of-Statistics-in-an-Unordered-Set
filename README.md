@@ -12,13 +12,13 @@ Functions include:
   display (displays the predefined values like #1), 
   displayAll (displays the predefined values like #2), 
   sum (gets the sum of all elements inside a set), 
-  mean
-  median
-  mode
-  geetSmallest
-  getLargest
-  clear
-  checks if set is empty
+  mean, 
+  median, 
+  mode, 
+  getSmallest, 
+  getLargest, 
+  clear, 
+  checks if set is empty, 
   printHistogram(displays the Histogram per set)
   
   
